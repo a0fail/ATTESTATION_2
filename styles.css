@@ -1,0 +1,74 @@
+body {
+  font-family: 'Roboto',
+'Helvetica Neue', sans-serif;
+  background-color: #f3f9f5;
+  border-radius: 10px;
+}
+
+img {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  max-width: 100%; 
+  border-radius: 5px;
+}
+
+header {
+  text-align: center;
+  margin: 3rem auto;
+}
+
+#img-div {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#img-caption {
+  color: #2b543b;
+  margin-top: 0.5rem;
+}
+
+#tribute-info {
+  margin: 3rem auto;
+  color: #193223;
+}
+
+#tribute-info h2 {
+  text-align: center;
+}
+
+#tribute-info ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20%;
+  line-height: 1.5;
+}
+
+#wiki {
+  margin-top: 5%;
+  text-align: center;
+  colro: #2b543b;
+}
+
+header h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: #193223
+}
+
+header p {
+  margin-top: 0.6rem;
+  padding-top: 0;
+  color: #2b543b;
+}
+
+a {
+  text-decoration: none;
+  color: #44875f;
+}
+
+
+
+
+
